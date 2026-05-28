@@ -1,0 +1,11 @@
+# Core SDK
+anthropic>=0.40.0
+
+# Env var loading
+python-dotenv>=1.0.0
+
+# Testing
+pytest>=8.0.0
+
+# Lint + format (one tool, fast)
+ruff>=0.6.0
